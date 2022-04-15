@@ -112,6 +112,7 @@ img.main-image{
 
 #profile span{
     color: hsl(0, 0%, 100%);
+    cursor: pointer;
 }
 
 #profile span:hover {
